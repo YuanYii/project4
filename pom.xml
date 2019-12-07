@@ -8,6 +8,7 @@
         <module>Product</module>
         <module>Users</module>
         <module>ZProject</module>
+        <module>Controller</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
